@@ -1,0 +1,6 @@
+homepage: "https://deployseal.com"
+documentation: "https://deployseal.com/docs/gtm"
+versions:
+  # Latest version first. Each sha is a commit whose template.tpl is that release.
+  - sha: 7f65e3b04d15e970882eb2764adb41186df989e2
+    changeNotes: Initial release. Loads the DeploySeal widget through the configuration object (install contract v1.4).
